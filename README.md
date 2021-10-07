@@ -3,29 +3,31 @@
 ## 📉 System Requirements.
 
 ## 📝 Notes.
+
 > Main Entities
- - User
- - Photographer
- - Admin
+
+- User
+- Photographer
+- Admin
 
 > User scenarios
- - Users can make an appointment to a photographer.
- - Make reservations.
+
+- Users can make an appointment to a photographer.
+- Make reservations.
 
 > Photographer scenarios
- - Photographer can create own profile.
+
+- Photographer can create own profile.
 
 > Admin scenarios
- - Remove users and photographers.
-----
+
+- Remove users and photographers.
+
+---
 
 ## Front-End.
 
-
-
 ## Back-End.
- - AWS
- - Microservices Architecture
 
-
-
+- AWS - Terraform
+- Microservices Architecture
