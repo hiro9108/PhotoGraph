@@ -3,7 +3,7 @@
 ## 📉 System Requirements.
 
 ## 📝 Notes.
-> Main Entit
+> Main Entities
  - User
  - Photographer
  - Admin
