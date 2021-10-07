@@ -1,6 +1,6 @@
 # 📸 Capturing your precious moments.
 
-## 📉 System Requirements.Cancel changes
+## 📉 System Requirements.
 
 ## 📝 Notes.
 > Main Entity
