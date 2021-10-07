@@ -1,9 +1,22 @@
 # 📸 Capturing your precious moments.
 
-## 📉 System Requirements.
+## 📉 System Requirements.Cancel changes
 
 ## 📝 Notes.
+> Main Entity
+ - User
+ - Photographer
+ - Admin
 
+> User scenarios
+ - Users can make an appointment to a photographer.
+ - Make reservations.
+
+> Photographer scenarios
+ - Photographer can create own profile.
+
+> Admin scenarios
+ - Remove users and photographers.
 ----
 
 ## Front-End.
